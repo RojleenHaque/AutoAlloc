@@ -22,13 +22,14 @@ An automated web-based application designed to simplify and streamline the hallr
 
 ## 🚀 How to Run the Project
 
- ##Backend
+### Backend
 ```bash
 cd backend
 npm install
 npm start
 
 ### Frontned
+```bash
 cd frontend
 npm install
 npm start
