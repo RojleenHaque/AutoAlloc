@@ -26,7 +26,13 @@ An automated web-based application designed to simplify and streamline the hallr
 ```bash
 cd backend
 npm install
-npm start
+node server.js
+Backend Stack Includes:
+Node.js + Express.js: Handles API requests and routes.
+Multer: For handling file uploads (e.g., images, documents).
+JWT: For secure student and admin authentication.
+MongoDB: Stores user data, application forms, and admin actions.
+dotenv: For managing environment variables.
 
 ### Frontned
 cd frontend
