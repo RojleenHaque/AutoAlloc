@@ -29,7 +29,6 @@ npm install
 npm start
 
 ### Frontned
-```bash
 cd frontend
 npm install
 npm start
